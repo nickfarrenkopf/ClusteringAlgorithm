@@ -6,7 +6,7 @@ For an slightly more detailed description, head to the program or consult the In
 This program allows you to load example data sets and find the centroids of the data.
 The number of centroids and plotting indexes are changeable in program.
 
-For executable jar files, head to
+For executable jar files (Java Runtime Environment needed), head to
 https://drive.google.com/open?id=0B8yloXKNmwBVZ0xxazZuZ2lDQW8
 
 
