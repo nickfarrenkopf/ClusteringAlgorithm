@@ -11,7 +11,6 @@ https://drive.google.com/open?id=0B8yloXKNmwBVZ0xxazZuZ2lDQW8
 
 
 Commit 1: Bulk of program.
-
 Commit 2: Changed file retrieval system.
 
 - Nick 12/29/2016
